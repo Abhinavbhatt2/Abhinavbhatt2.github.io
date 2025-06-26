@@ -1,0 +1,6 @@
+{
+  "name": "Job Aligner AI",
+  "description": "An application that uses AI to analyze your resume against job descriptions, providing a summary of alignment and suggestions for tailoring your application.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
